@@ -20,7 +20,7 @@
 \> [Challenge 4](link)
 
 ---------------------------------------------
-## Web Expliotation:
+## Web Exploitation:
 \> [Developer ka Bhand](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/blob/main/Web%20Expliotation/Developer%20ka%20Bhand/files/Developer%20ka%20Bhand.md)
 
 \> [Challenge 2](link)
