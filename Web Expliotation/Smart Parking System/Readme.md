@@ -34,6 +34,7 @@ As you can see, debug mode is on and it is leaking a bit of source code from the
 ![image](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/assets/154006182/54a61849-fec0-4541-851c-43cdb7bb0b67)
 
 WHOA EMAIL SENT
+
 After checking our email, we get the flag.
 
 ![image](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/assets/154006182/d4b6115d-f7f4-4547-988f-3ec5b9af6018)
