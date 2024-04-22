@@ -73,4 +73,4 @@ def success():
     return "Congratulations! You've successfully logged in.\n Flag: DD24{bypassing_WAF_1s_n0t_4lw4ys_3asy}"
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(host='0.0.0.0', port=6000, debug=False)
