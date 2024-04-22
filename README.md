@@ -21,13 +21,11 @@
 
 ---------------------------------------------
 ## Web Exploitation:
-\> [Developer ka Bhand](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/blob/main/Web%20Expliotation/Developer%20ka%20Bhand/Developer%20ka%20Bhand.md)
+\> [Developer ka Bhand](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/blob/main/Web%20Expliotation/Developer%20ka%20Bhand/Readme.md)
 
-\> [Challenge 2](link)
+\> [Smart Parking System](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/blob/main/Web%20Expliotation/Smart%20Parking%20System/Readme.md)
 
-\> [Challenge 3](link)
-
-\> [Challenge 4](link)
+\> [My Little WAF](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/blob/main/Web%20Expliotation/My%20Little%20WAF/Readme.md)
 
 ---------------------------------------------
 ## Cryptography:
