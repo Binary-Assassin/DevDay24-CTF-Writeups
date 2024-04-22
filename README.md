@@ -21,7 +21,7 @@
 
 ---------------------------------------------
 ## Web Exploitation:
-\> [Developer ka Bhand](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/blob/main/Web%20Expliotation/Developer%20ka%20Bhand/files/Developer%20ka%20Bhand.md)
+\> [Developer ka Bhand](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/blob/main/Web%20Expliotation/Developer%20ka%20Bhand/Developer%20ka%20Bhand.md)
 
 \> [Challenge 2](link)
 
