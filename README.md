@@ -33,7 +33,7 @@
 
 \> [Challenge 2](link)
 
-\> [Challenge 3](link)
+\> [Monolithic RSA](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/blob/main/Cryptography/Monolithic%20RSA/Readme.md)
 
 \> [Challenge 4](link)
 
