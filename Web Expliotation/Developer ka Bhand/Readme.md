@@ -3,6 +3,8 @@
 ## Description
 The developers were clearly in a rush to deploy the website to a live environment. Can you find the developer ka bhand?
 
+### Author
+Zain Ali Raza
 
 ## Solution
 
