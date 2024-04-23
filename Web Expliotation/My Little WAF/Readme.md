@@ -3,6 +3,9 @@
 ## Description
 Can you break my little WAF?
 
+### Author
+Zain Ali Raza
+
 ## Solution
 
 ![image](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/assets/154006182/ccc9c656-b242-40c5-9e88-d3cc0650c9fe)
