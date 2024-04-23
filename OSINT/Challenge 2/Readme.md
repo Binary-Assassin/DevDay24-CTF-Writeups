@@ -1,3 +1,15 @@
+C00rdinates
+
+
+Author
+Abubakr Wamiq
+
+
+Description
+The secret lies in the coordinates
+When you find the image check for Addeddate field in the image description
+
+
 When you look at the image the first thing that comes to mind is the reverse image lookup using google, so we will do that.
 
 
@@ -20,8 +32,10 @@ First we notice is that this is a map of the California region, so we will check
 
 
 Now click on the image and look for the Addedate field and put it in the flag.
-The flag is _**DD24{2006-10-09 22:52:19}**_
 
 
 ![image](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/assets/121969132/c87f7050-6a26-4dd0-a309-61ce9f989ba2)
 
+
+Flag
+ _**DD24{2006-10-09 22:52:19}**_
