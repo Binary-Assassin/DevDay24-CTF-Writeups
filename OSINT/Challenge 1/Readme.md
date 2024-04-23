@@ -1,11 +1,11 @@
-Nine Zero
+# Nine Zero
 
 
-Author
+# Author
 Abubakr Wamiq
 
 
-Descrpition
+# Descrpition
 Follow Altap Bhai's journey on twitter
 
 
@@ -25,3 +25,6 @@ If you scroll through the reviews of the place you will find the flag posted by 
 
 ![image](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/assets/121969132/0097c98b-4a81-42ed-9cab-5af613a1ab20)
 
+
+# Flag
+DD24{4lt4pbh4i_was_h3r3}
