@@ -51,7 +51,7 @@
 ---------------------------------------------
 
 ## Miscellaneous:
-\> [Challenge 1](link)
+\> [Hidden Lyrics](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/blob/main/Miscellaneous/hidden_lyrics/Readme.md)
 
 \> [Challenge 2](link)
 
