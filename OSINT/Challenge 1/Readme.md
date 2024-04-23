@@ -27,4 +27,4 @@ If you scroll through the reviews of the place you will find the flag posted by 
 
 
 # Flag
-DD24{4lt4pbh4i_was_h3r3}
+_**DD24{4lt4pbh4i_was_h3r3}**_
