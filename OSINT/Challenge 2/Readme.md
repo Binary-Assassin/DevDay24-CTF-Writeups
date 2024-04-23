@@ -1,11 +1,11 @@
-C00rdinates
+# C00rdinates
 
 
-Author
+# Author
 Abubakr Wamiq
 
 
-Description
+# Description
 The secret lies in the coordinates
 When you find the image check for Addeddate field in the image description
 
@@ -37,5 +37,5 @@ Now click on the image and look for the Addedate field and put it in the flag.
 ![image](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/assets/121969132/c87f7050-6a26-4dd0-a309-61ce9f989ba2)
 
 
-Flag
+# Flag
  _**DD24{2006-10-09 22:52:19}**_
