@@ -1,7 +1,7 @@
 # Smart Parking System
 
 ## Description
-Smart Parking System is under maintenance!
+Smart Parking System is undergoing maintenance! Poke your way around it.
 
 ### Author
 Zain Ali Raza
