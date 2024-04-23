@@ -5,8 +5,8 @@ Author
 Abubakr Wamiq
 
 
-Descrition
-
+Descrpition
+Follow Altap Bhai's journey on twitter
 
 
 In the most recent post on the account you can see that the person haas to visit a showroom for his car repair
