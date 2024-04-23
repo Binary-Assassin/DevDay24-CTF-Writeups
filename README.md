@@ -51,11 +51,11 @@
 ---------------------------------------------
 
 ## Miscellaneous:
+\> [Welcome Flag I](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/blob/main/Miscellaneous/Welcome%20Flag%20I/Readme.md)
+
+\> [Welcome Flag II]([link](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/blob/main/Miscellaneous/Welcome%20Flag%20II/Readme.md))
+
 \> [Hidden Lyrics](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/blob/main/Miscellaneous/hidden_lyrics/Readme.md)
-
-\> [Challenge 2](link)
-
-\> [Challenge 3](link)
 
 \> [Challenge 4](link)
 
