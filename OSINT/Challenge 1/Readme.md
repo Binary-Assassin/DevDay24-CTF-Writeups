@@ -9,7 +9,7 @@ Abubakr Wamiq
 Follow Altap Bhai's journey on twitter
 
 
-In the most recent post on the account you can see that the person haas to visit a showroom for his car repair
+In the most recent post on the account you can see that the person had to visit a showroom for his car repair
 If you zoom in you can see the address of the showroom
 
 
