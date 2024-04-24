@@ -43,7 +43,7 @@
 
 \> [C00rdinates](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/blob/main/OSINT/Challenge%202/Readme.md)
 
-\> [RabbitHole]([link](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/blob/main/OSINT/Challenge%203/Readme.md))
+\> [RabbitHole](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/blob/main/OSINT/Challenge%203/Readme.md)
 
 
 ---------------------------------------------
