@@ -59,7 +59,7 @@
 
 ## Reverse Engineering:
 
-\> [Challenge 1](link)
+\> [Agent Code](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/blob/main/Reverse%20Engineering/Agent%20Code/Readme.md)
 
 
 ---------------------------------------------
