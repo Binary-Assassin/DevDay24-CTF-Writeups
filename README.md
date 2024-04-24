@@ -39,13 +39,12 @@
 ---------------------------------------------
 
 ## OSINT:
-\> [Challenge 1](link)
+\> [Nine Zero](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/blob/main/OSINT/Nine%20Zero/Readme.md)
 
-\> [Challenge 2](link)
+\> [C00rdinates](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/blob/main/OSINT/Challenge%202/Readme.md)
 
-\> [Challenge 3](link)
+\> [RabbitHole]([link](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/blob/main/OSINT/Challenge%203/Readme.md))
 
-\> [Challenge 4](link)
 
 ---------------------------------------------
 
