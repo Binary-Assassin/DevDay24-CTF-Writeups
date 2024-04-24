@@ -55,7 +55,13 @@
 
 \> [Hidden Lyrics](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/blob/main/Miscellaneous/hidden_lyrics/Readme.md)
 
-\> [Challenge 4](link)
+\> [Can You Crack This](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/blob/main/Miscellaneous/Can%20You%20Crack%20This/Readme.md)
+
+\> [F1L3 M1X3R](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/blob/main/Miscellaneous/F1L3%20M1X3R/Readme.md)
+
+\> [What might this thing be](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/blob/main/Miscellaneous/What%20might%20this%20thing%20be/Readme.md)
+
+
 
 ---------------------------------------------
 
