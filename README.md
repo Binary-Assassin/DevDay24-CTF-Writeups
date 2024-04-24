@@ -45,18 +45,6 @@
 ---------------------------------------------
 
 
-
-## Digital Forensics:
-\> [Challenge 1](link)
-
-\> [Challenge 2](link)
-
-\> [Challenge 3](link)
-
-\> [Challenge 4](link)
-
----------------------------------------------
-
 ## Reverse Engineering:
 
 \> [Agent Code](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/blob/main/Reverse%20Engineering/Agent%20Code/Readme.md)
