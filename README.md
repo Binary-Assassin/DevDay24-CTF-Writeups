@@ -1,25 +1,21 @@
 # DevDay24-CTF-Writeups
 
-## Digital Forensics:
-\> [Challenge 1](link)
+## Miscellaneous:
+\> [Welcome Flag I](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/blob/main/Miscellaneous/Welcome%20Flag%20I/Readme.md)
 
-\> [Challenge 2](link)
+\> [Welcome Flag II](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/blob/main/Miscellaneous/Welcome%20Flag%20II/Readme.md)
 
-\> [Challenge 3](link)
+\> [Hidden Lyrics](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/blob/main/Miscellaneous/hidden_lyrics/Readme.md)
 
-\> [Challenge 4](link)
+\> [Can You Crack This](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/blob/main/Miscellaneous/Can%20You%20Crack%20This/Readme.md)
 
----------------------------------------------
-## Reverse Engineering:
-\> [Challenge 1](link)
+\> [F1L3 M1X3R](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/blob/main/Miscellaneous/F1L3%20M1X3R/Readme.md)
 
-\> [Challenge 2](link)
+\> [What might this thing be](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/blob/main/Miscellaneous/What%20might%20this%20thing%20be/Readme.md)
 
-\> [Challenge 3](link)
-
-\> [Challenge 4](link)
 
 ---------------------------------------------
+
 ## Web Exploitation:
 \> [Developer ka Bhand](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/blob/main/Web%20Expliotation/Developer%20ka%20Bhand/Readme.md)
 
@@ -48,19 +44,22 @@
 
 ---------------------------------------------
 
-## Miscellaneous:
-\> [Welcome Flag I](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/blob/main/Miscellaneous/Welcome%20Flag%20I/Readme.md)
 
-\> [Welcome Flag II](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/blob/main/Miscellaneous/Welcome%20Flag%20II/Readme.md)
 
-\> [Hidden Lyrics](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/blob/main/Miscellaneous/hidden_lyrics/Readme.md)
+## Digital Forensics:
+\> [Challenge 1](link)
 
-\> [Can You Crack This](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/blob/main/Miscellaneous/Can%20You%20Crack%20This/Readme.md)
+\> [Challenge 2](link)
 
-\> [F1L3 M1X3R](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/blob/main/Miscellaneous/F1L3%20M1X3R/Readme.md)
+\> [Challenge 3](link)
 
-\> [What might this thing be](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/blob/main/Miscellaneous/What%20might%20this%20thing%20be/Readme.md)
+\> [Challenge 4](link)
 
+---------------------------------------------
+
+## Reverse Engineering:
+
+\> [Challenge 1](link)
 
 
 ---------------------------------------------
