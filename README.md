@@ -29,13 +29,12 @@
 
 ---------------------------------------------
 ## Cryptography:
-\> [Challenge 1](link)
+\> [Hexes Everywhere!!](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/blob/main/Cryptography/Hexes%20Everywhere.md)
 
-\> [Challenge 2](link)
+\> [XOR^3](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/blob/main/Cryptography/XOR%5E3/Readme.md)
 
 \> [Monolithic RSA](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/blob/main/Cryptography/Monolithic%20RSA/Readme.md)
 
-\> [Challenge 4](link)
 
 ---------------------------------------------
 
