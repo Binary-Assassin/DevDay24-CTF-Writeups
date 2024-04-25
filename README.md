@@ -27,6 +27,8 @@
 ## Cryptography:
 \> [Hexes Everywhere!!](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/blob/main/Cryptography/Hexes%20Everywhere.md)
 
+\> [A Quack Revelation](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/blob/main/Cryptography/a_quacky_revelation.md)
+
 \> [XOR^3](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/blob/main/Cryptography/XOR%5E3/Readme.md)
 
 \> [Monolithic RSA](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/blob/main/Cryptography/Monolithic%20RSA/Readme.md)
