@@ -1,12 +1,10 @@
 # RabbitHole
 
-
-# Author 
-Abubakr Wamiq
-
-
-# Description
+## Description
 head over to the acm cys instagram page and see if you can find out something interesting
+
+### Author 
+Abubakr Wamiq
 
 
 When you head over to the instagram page of acm cys you can see a strange comment made by AbubakrWamiq under the devday CTF post, Pufd3b1W2k6wkYGWmxuzFhBuKMyq948HWMtSHLVpZQGRyqrUfVKPaCPN.
