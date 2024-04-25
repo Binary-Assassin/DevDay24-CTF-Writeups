@@ -1,13 +1,11 @@
 # C00rdinates
 
-
-# Author
-Abubakr Wamiq
-
-
-# Description
+## Description
 The secret lies in the coordinates
 When you find the image check for Addeddate field in the image description
+
+### Author
+Abubakr Wamiq
 
 
 When you look at the image the first thing that comes to mind is the reverse image lookup using google, so we will do that.
