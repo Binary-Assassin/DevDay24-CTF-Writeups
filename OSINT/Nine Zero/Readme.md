@@ -1,12 +1,10 @@
 # Nine Zero
 
-
-# Author 
-Abubakr Wamiq
-
-
-# Description
+## Description
 Follow Altap Bhai's journey on twitter https://twitter.com/Altapbhai420
+
+### Author 
+Abubakr Wamiq
 
 
 The latest picture on the account indicates that the user visited a BMW auto showroom and we can confirm that because in the second picture we can see that the user is driving a BMW. When you zoom in the last picture you can see these words "BMW Niederlassung Saarbrücken". They transalet to BMW branch Saarbrücken.
@@ -23,5 +21,5 @@ So now let search for a BMW showroom in Saarbrücken on google maps and we can f
 
 
 
-# Flag
-DD24{4lt4pbh4i_was_h3r3}
+**Flag:**
+> DD24{4lt4pbh4i_was_h3r3}
