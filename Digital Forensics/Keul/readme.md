@@ -11,7 +11,8 @@ This challenge contains a file keul which is unaccessible due to a broken file e
 
 ![image](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/assets/128910142/a61a09a6-e63c-488a-998c-37e4eb657450)
 
-Upon getting a hint from the challenge description "Doc... Doc..." we found that it is a **.docx** (Ms Word) file. So we applied the extension. 
+Upon getting a hint from the challenge description "Doc... Doc..." we found that it is a **.docx** (Ms Word) file. So we applied the extension.    
+
 ![image](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/assets/128910142/9ef3aef5-2893-431b-9ad0-6346da95a93d)
 
 The word file contains a base64 string.
