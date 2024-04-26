@@ -19,7 +19,7 @@ Upon opening this file in the Wireshark tool, we can see all the captured traffi
 We can check for the specific traffic by filtering it. For e.g. Here, I filtered for `http` 
 ![image](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/assets/128910142/b1ea8f86-5023-4386-8baf-39240f042345)
 
-Now right click on the on any packet. Go to Follow->Tcp Stream 
+Now right click on the on any packet. Go to File->Follow->Tcp Stream 
 ![Screenshot (2)](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/assets/128910142/87258f1f-efd2-4a6f-846b-4935ee4b2508)
 In TCP stream, you can view packet details.
 
