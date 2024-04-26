@@ -24,7 +24,7 @@ Upon decrypting it using CyberChef we can find a github link which has some imag
 Have you ever seen this meme? This is the original image of the meme.
 ![6lgcf5](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/assets/128910142/f35c2839-a862-4633-bd06-242b9b663065)
 
-What can we do now? We see that the meme image is incomplete or is resized. To get the original image you can follow the below steps:
+What can we do now? We see that the meme image is incomplete or is resized. To get the original image you can follow the following steps:
 
 Use CyberChef to upload your image and convert it to Hex by selecting the "To Hex" recipe. The output gives you the hexadecimal values for the image.
 ![image](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/assets/128910142/fd083454-5513-49f9-8530-ad34f26f87bc)
