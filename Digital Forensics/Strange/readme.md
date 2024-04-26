@@ -10,7 +10,7 @@ Discover the keys, open the gate.
 Osama Irfan
 
 ## Solution
-This challenge includes a `.pcapng` file which can be analysed by Wireshark tool. 
+This challenge includes a `.pcapng` file which can be analysed by Wireshark tool.      
 Learn more about Wireshark here: https://www.upguard.com/blog/what-is-wireshark
 
 Upon opening this file in the Wireshark tool, we can see all the captured traffic by the author.
