@@ -21,7 +21,7 @@ The word file contains a base64 string.
 Upon decrypting it using CyberChef we can find a github link which has some image file in it containing a flag. But Sadly thats a fake flag.
 ![image](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/assets/128910142/120d6e70-59e3-49ab-ac5e-02f735f95d8a)
 
-Have you ever seen that meme? This is the full image of the meme.
+Have you ever seen that meme? This is the original image of the meme.
 ![6lgcf5](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/assets/128910142/f35c2839-a862-4633-bd06-242b9b663065)
 
 What can we do now? We see that the meme image is incomplete or is resized. To get the original image you can follow the below steps:
