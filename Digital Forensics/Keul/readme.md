@@ -50,6 +50,6 @@ Now modify the height values of this image to something else for e.g: Replace `0
 Save the modified image and get the flag.
 ![image](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/assets/128910142/c7dc2bb6-07d4-4e9b-951c-9daed3cae3f0)
 
-## Flag for this challenge:
+## Flag for this challenge is:
 > **DD24{Y3$_Y0U_D1D_1T}**
 
