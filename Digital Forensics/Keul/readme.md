@@ -39,7 +39,7 @@ Now hold ctrl+F in the output field and search for ff c0. Note the following val
 ![image](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/assets/128910142/418d07fa-2a54-4d86-818a-324377260e79)
 
 I've highlighted the relevant bytes and what they mean in the image below:
-![hex](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/assets/128910142/c432dcb6-63f9-48f4-87ab-49c6aba0f528)
+![hex](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/assets/128910142/24b4cd4b-3b04-4f7e-afb6-484f5bec8676)
 
 Now again in the Operations panel, enter "Render Image" and click or drag it over to the Recipes panel so you can see the result rendered result of the image also.
 ![image](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/assets/128910142/9f8ebddc-0c31-4096-9344-f8975bb80816)
