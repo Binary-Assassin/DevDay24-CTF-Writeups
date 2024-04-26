@@ -35,7 +35,7 @@ We can download these PDF files by going to File->Export Objects->HTTP
 Click on the pdf and save it. There are total 8 pdf files.
 ![image](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/assets/128910142/5d9e6fea-c885-4af2-87ac-d88637254e13)
 
-Upon extracting the files it asks for the password.
+Upon extracting the files it asks for the password.     
 ![image](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/assets/128910142/8fa24d6a-1437-44ba-84c2-3101bce585ee)
 
 Now we have to find the password in the streams. Try to find any unusual strings from the stream.   
