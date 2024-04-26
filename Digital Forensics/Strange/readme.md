@@ -44,11 +44,11 @@ Here in the part_1.pdf stream we found a base64 encrypted string so we can test 
 
 ![image](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/assets/128910142/6aabba17-7cf0-4ea3-9fae-ab8d0c1658b2)
 
-We can test this string for the first part_1.zip file.   
-The password was correct and we got the pdf.
+We can test this string for the first part_1.zip file.      
+The password was correct and we got the pdf.     
 ![image](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/assets/128910142/5030728a-41af-4e86-b62c-145783803bf2)
 
-But we found nothing special from here.
+But we found nothing special from here.     
 ![image](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/assets/128910142/3d30d6ab-faaf-4e6e-a99f-6d7c35cb5846)
 
 So we have to keep trying for all the other 7 parts of the pdf.
