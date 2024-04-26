@@ -22,7 +22,7 @@ If we view the contents of this secret.txt. First part of the flag will be found
 To find the second part of the flag we can just check for the meta data of the image using exiftool or any other online tool.
 ![tempsnip](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/assets/128910142/17d2bf4b-62cd-43b6-820e-169fd69cb8ba)
 
-## Flag for this challenge: 
+## Flag for this challenge is: 
 > **DD24{Th1$_1$_C@LL3D_CYB3R_J1H@@D}**
 
 
