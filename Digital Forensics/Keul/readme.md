@@ -29,7 +29,10 @@ What can we do now? We see that the meme image is incomplete or is resized. To g
 Use CyberChef to upload your image and convert it to Hex by selecting the "To Hex" recipe. The output gives you the hexadecimal values for the image.
 ![image](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/assets/128910142/fd083454-5513-49f9-8530-ad34f26f87bc)
 
-Next, copy the output and click the trash icons to clear the Input and Recipe panels. In the Operations panel, enter "From Hex" and click or drag the it over to the Recipes panel.
+Next, copy the output and click the trash icons to clear the Input and Recipe panels and paste the copied values in the input panel. 
+![image](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/assets/128910142/aa74ad27-c2e3-42d3-891a-6b7478a7483a)
+
+In the Operations panel, enter "From Hex" and click or drag the it over to the Recipes panel.
 ![image](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/assets/128910142/c0016952-c5a0-419f-aa75-66a2c4c02dca)
 
 Now hold ctrl+F in the output field and search for ff c0. Note the following values starting at ff c0:
