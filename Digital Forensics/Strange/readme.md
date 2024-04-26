@@ -44,25 +44,26 @@ Here in the part_1.pdf stream we found a base64 encrypted string so we can test 
 
 ![image](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/assets/128910142/6aabba17-7cf0-4ea3-9fae-ab8d0c1658b2)
 
-We can test this string for the first part_1.zip file.      
+We can test this string for the first part_1.zip file.  
+
 The password was correct and we got the pdf.     
 ![image](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/assets/128910142/5030728a-41af-4e86-b62c-145783803bf2)
 
-But we found nothing special from here.     
+But we found nothing special from this pdf file.       
 ![image](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/assets/128910142/3d30d6ab-faaf-4e6e-a99f-6d7c35cb5846)
 
 So we have to keep trying for all the other 7 parts of the pdf.
-1. Get the encryped string:
+1. Get the encryped string:    
    ![tempsnip](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/assets/128910142/d952819a-4ab3-4569-943e-c0b129c0a0c3)
 
-3. Decrypt it using cyberchef:
+3. Decrypt it using cyberchef:    
    ![image](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/assets/128910142/4afbc6d9-34ac-4559-a8d5-92e1a9ce3551)
 
-4. Extract the pdf:
+4. Extract the pdf:    
    ![image](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/assets/128910142/501a06a7-5b55-4fba-881b-fe729f2d8b2b)
 
-5. Check for any usual information:
-   Here in part 2 we found a part of the flag. But its still incomplete so we have to try other parts too.
+5. Check for any usual information:    
+   Here in part 2 we found a part of the flag. But its still incomplete so we have to try other parts too.    
    ![image](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/assets/128910142/19e41282-791f-49de-9af5-1e55215d9b6e)
 
 6. Repeat the same steps for all.
