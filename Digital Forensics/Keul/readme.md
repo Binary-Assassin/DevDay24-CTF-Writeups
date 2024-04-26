@@ -41,7 +41,7 @@ Now hold ctrl+F in the output field and search for ff c0. Note the following val
 I've highlighted the relevant bytes and what they mean in the image below:
 ![hex](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/assets/128910142/c62608d5-99ab-4444-854c-ed0f932f3014)
 
-Now again in the Operations panel, enter "Render Image" and click or drag it over to the Recipes panel so you can see the result rendered result of the image also.
+Now again in the Operations panel, enter "Render Image" and click or drag it over to the Recipes panel so you can see the  rendered result of the image also.
 ![image](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/assets/128910142/9f8ebddc-0c31-4096-9344-f8975bb80816)
 
 Now modify the height values of this image to something else for e.g: `09 f2`, By doing so the image height will be increased and you will find the flag:
