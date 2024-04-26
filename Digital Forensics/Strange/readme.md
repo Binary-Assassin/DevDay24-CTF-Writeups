@@ -39,7 +39,7 @@ Upon extracting the files it asks for the password.
 ![image](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/assets/128910142/8fa24d6a-1437-44ba-84c2-3101bce585ee)
 
 Now we have to find the password in the streams. Try to find any unusual strings from the stream.   
-Here in the part_1.pdf stream we found some usual base64 encrypted string so we can test it using cyberchef.
+Here in the part_1.pdf stream we found a base64 encrypted string so we can test it using cyberchef.
 ![tempsnip](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/assets/128910142/796d6a32-2162-47c2-820a-77ea3fd7961c)
 
 ![image](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/assets/128910142/6aabba17-7cf0-4ea3-9fae-ab8d0c1658b2)
