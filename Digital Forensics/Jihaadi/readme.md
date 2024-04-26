@@ -7,12 +7,13 @@ What are you looking at?
 Osama Irfan
 
 ## Solution
-This challenge includes a .jpg image file. The flag is divided into two parts. One part of the flag can be extracted using the steghide tool in Kali Linux with the command:     
+This challenge includes a .jpg image file. The flag is divided into two parts. One part of the flag can be extracted using the steghide tool in Kali Linux with the following command:       
+
 Commnad: `steghide extract -sf jihaadi.jpg`
 
 ![image](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/assets/128910142/88867050-7cee-4042-a6f6-9b26f2545463)
 
-You can simply press enter when prompted for a password. This will create a secret.txt file where the first part of the flag can be found.
+You can simply press enter when prompted for a password as it has no password. This will create a secret.txt file where the first part of the flag can be found.
 
 ![image](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/assets/128910142/098c6aad-ae51-4064-a1a8-5f7315e00814)
 
