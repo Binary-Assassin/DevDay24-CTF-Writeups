@@ -46,6 +46,15 @@
 
 ---------------------------------------------
 
+## OSINT:
+\> [Jihaadi](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/blob/main/Digital%20Forensics/Jihaadi/readme.md)
+
+\> [Keul](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/blob/main/Digital%20Forensics/Keul/readme.md)
+
+\> [Strange](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/blob/main/Digital%20Forensics/Strange/readme.md)
+
+
+---------------------------------------------
 
 ## Reverse Engineering:
 
