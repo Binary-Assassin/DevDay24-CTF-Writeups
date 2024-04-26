@@ -44,7 +44,7 @@ I've highlighted the relevant bytes and what they mean in the image below:
 Now again in the Operations panel, enter "Render Image" and click or drag it over to the Recipes panel so you can see the  rendered result of the image also.
 ![image](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/assets/128910142/9f8ebddc-0c31-4096-9344-f8975bb80816)
 
-Now modify the height values of this image to something else for e.g: `09 f2`, By doing so the image height will be increased and you will find the flag:
+Now modify the height values of this image to something else for e.g: Replace `01 f2` with `09 f2`, By doing so the image height will be increased and you will find the flag:
 ![image](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/assets/128910142/1e19c68c-f7dd-40b3-8a45-d856972599f1)
 
 Save the modified image and get the flag.
