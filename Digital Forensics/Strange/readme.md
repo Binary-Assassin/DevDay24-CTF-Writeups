@@ -68,7 +68,7 @@ So we have to keep trying for all the other 7 parts of the pdf.
 
 6. Repeat the same steps for all.
 
-By doing this, we will find all the parts. The flag was divided into 3 parts. Part 1 was found in **part_2.pdf**, Part 2 was found in **part_4.pdf** and part 3 was found in part_8.pdf.    
+By doing this, we will find all the parts. The flag was divided into 3 parts. Part 1 was found in **part_2.pdf**, Part 2 was found in **part_4.pdf** and part 3 was found in **part_8.pdf**.    
 
 ![image](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/assets/128910142/767dac82-7c7f-42d6-9ac8-12cd251dc406)
 
