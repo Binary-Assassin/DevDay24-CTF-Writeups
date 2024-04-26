@@ -4,7 +4,7 @@
 I travel through wires, invisible to sight,    
 Carrying secrets, hidden from light.    
 Messages I carry, data I bear,     
-But beware, for exploits lurk there.    
+Discover the keys, open the gate.   
 
 ### Author
 Osama Irfan
