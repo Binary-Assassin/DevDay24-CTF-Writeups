@@ -1,7 +1,6 @@
 # Strange
 
-## Description
-Description: 
+## Description:       
 I travel through wires, invisible to sight,    
 Carrying secrets, hidden from light.    
 Messages I carry, data I bear,     
