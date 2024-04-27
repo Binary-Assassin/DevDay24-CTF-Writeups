@@ -38,7 +38,7 @@ Next, copy the output and click the trash icons to clear the Input and Recipe pa
 In the Operations panel, enter "From Hex" and click or drag the it over to the Recipes panel.
 ![image](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/assets/128910142/c0016952-c5a0-419f-aa75-66a2c4c02dca)
 
-Now hold ctrl+F in the output field and search for ff c0. Note the following values starting at ff c0:
+Now hold ctrl+F in the output field and search for `ff c0`. Note the following values starting at `ff c0`:
 ![image](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/assets/128910142/418d07fa-2a54-4d86-818a-324377260e79)
 
 I've highlighted the relevant bytes and what they mean in the image below:
