@@ -18,8 +18,11 @@ Upon getting a hint from the challenge description "Doc... Doc..." we found that
 The word file contains a base64 string.
 ![image](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/assets/128910142/acef9887-a8f3-4505-8740-d969afae9415)
 
-Upon decrypting it using CyberChef we can find a github link which has some image file in it containing a flag. But Sadly thats a fake flag.
+Upon decrypting it using CyberChef we can find a github link.
 ![image](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/assets/128910142/120d6e70-59e3-49ab-ac5e-02f735f95d8a)
+
+The given Github link has some image file in it containing a flag. But Sadly thats a fake flag.
+![image](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/assets/128910142/03daf993-ed35-45d5-9cde-208f1cc8d6bd)
 
 Have you ever seen this meme? This is the original image of the meme.
 ![6lgcf5](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/assets/128910142/f35c2839-a862-4633-bd06-242b9b663065)
