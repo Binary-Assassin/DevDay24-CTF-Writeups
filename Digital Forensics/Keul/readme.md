@@ -7,7 +7,7 @@ Doc... Doc... Who is it?
 Osama Irfan
 
 ## Solution
-This challenge contains a file keul which is unaccessible due to a broken file extension.
+This challenge contains a file "**keul**" which is unaccessible due to a broken file extension.
 
 ![image](https://github.com/0xZainRaza/DevDay24-CTF-Writeups/assets/128910142/a61a09a6-e63c-488a-998c-37e4eb657450)
 
